@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="welcome_to_java_quiz">WELCOME TO JAVA QUIZ</string>
+    <string name="todo">TODO</string>
+    <string name="_1_java_is_an_object_oriented_language">1.Java is an object oriented language.</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
